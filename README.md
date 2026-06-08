@@ -38,3 +38,6 @@ cd exporter && python3 main.py
 
 ## ⚠️ Note
 Azure data is simulated for demo purposes.
+## 📸 Dashboard Preview
+
+![Multi-Cloud Cost Dashboard](screenshots/dashboard-preview.png)
